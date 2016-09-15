@@ -13,5 +13,5 @@
     }
     $(document).ready(function() {
         console.log("start");
-        $('.image').addClass('visible');
+        $('#image').delay(600).addClass('visible');
     });
