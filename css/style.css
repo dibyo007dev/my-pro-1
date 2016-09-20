@@ -11,15 +11,15 @@
 
 
 body {
-	background: #ddd;
+	background: pink;
 }
 
 nav {
-	
+
 	padding: 50px;
 	text-align: center;
 	color: rgba(0,0,0,0.7);
-	
+
 }
 
 nav ul {
@@ -49,9 +49,9 @@ nav li:hover {
 	 background: #d5d5d5;
 	 border-radius: 5px;
    }
- 
- 
-  
+
+
+
 
  nav ul.drop-menu {
 	position: absolute;
@@ -65,18 +65,18 @@ nav li:hover {
 nav li {
 		background: #666;
 		color: rgba(255,255,255,0.7);
-    
+
 }
 nav li:hover {
 	background: #606060;
 
-  }        
+  }
 
 nav ul li:last-child {
 	border-radius: 0px 0px 5px 5px;
 
   }
- 
+
 
 /* default trigger */
 
@@ -174,7 +174,7 @@ aside li a:hover {
   -webkit-transition: max-height 0.8s;
   -moz-transition: max-height 0.8s;
   transition: max-height 0.8s;
-  
+
 
 }
 
@@ -186,7 +186,7 @@ aside li a:hover {
   -webkit-transition: max-height 0.8s;
   -moz-transition: max-height 0.8s;
   transition: max-height 0.8s;
-  
+
 
 
 }
